@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14442#Memoirs-of-Major-Alexander-Ramkins--1718-
 gutenberg_issued: '2004-12-24'
 gutenberg_type: Text
 identifiers:
